@@ -24,3 +24,4 @@ print(len(cadena))
 
 print(cadena.lower())
 print(cadena.upper())
+print(cadena + " Ejemplo")
